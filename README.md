@@ -1,0 +1,2 @@
+# rapocket
+personal django project 
