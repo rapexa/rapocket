@@ -1,0 +1,3 @@
+[cli]
+bears = PEP8Bear
+files = **/*.py
